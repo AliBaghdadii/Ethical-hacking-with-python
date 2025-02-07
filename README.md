@@ -6,3 +6,4 @@ Learning ethical hacking using python, exercises and short lessons for each chap
 
 - Chapter 1: Python Basics for Ethical Hacking
 - 1. Python Programming Refresher
+- 2. Writing Python Scripts for Hacking
