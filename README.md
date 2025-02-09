@@ -8,3 +8,8 @@ Learning ethical hacking using python, exercises and short lessons for each chap
 - 1. Python Programming Refresher
 - 2. Writing Python Scripts for Hacking
 - 3. Automating Tasks with Python
+
+## Chapter 2: Reconnaissance and Information Gathering
+- 1. Introduction to Reconnaissance
+- 2. Gathering Information with Python
+- 3. Network Scanning with Python
