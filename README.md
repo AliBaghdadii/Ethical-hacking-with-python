@@ -13,3 +13,6 @@ Learning ethical hacking using python, exercises and short lessons for each chap
 - 1. Introduction to Reconnaissance
 - 2. Gathering Information with Python
 - 3. Network Scanning with Python
+
+## Chapter 3: Exploitation Techniques
+- 1. Vulnerability Assessment with Python
